@@ -13,3 +13,7 @@ This line is added with IDEA! :sparkles: :pizza:
 
 This line is added with Eclipse :tada: :octocat: :sparkles:
 
+This line is added with IntelliJ1! :tada: :octocat:
+
+This line is added with IntelliJ2! :tada: :octocat:
+
