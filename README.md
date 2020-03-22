@@ -17,3 +17,7 @@ This line is added with IntelliJ1! :tada: :octocat:
 
 This line is added with IntelliJ2! :tada: :octocat:
 
+This line is added with IntelliJ3! :tada: :octocat:
+
+This line is added with IntelliJ4! :tada: :octocat:
+
