@@ -21,3 +21,6 @@ This line is added with IntelliJ3! :tada: :octocat:
 
 This line is added with IntelliJ4! :tada: :octocat:
 
+This line is added with IntelliJ5! :tada: :octocat:
+
+This line is added with IntelliJ6! :tada: :octocat:
